@@ -1,8 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
-import React from "react";
 
-type Props = {};
+interface Props {}
 
 export default function NotFound({}: Props) {
     return (
